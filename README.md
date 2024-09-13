@@ -1,5 +1,5 @@
 <h1 align="center">Hola mundo, soy Darwin Alvarado<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img></h1>
-<h3 align="center">Me gusta estar en costante aprendizaje y busco poner a prueba mis conocimientos.</h3>
+<h3 align="center">Desarrollador autodidacta apasionado y capaz, me aseguro de estar en constante aprendizaje y trabajar en proyectos que pongan a prueba mis conocimientos y así perfeccionar mis habilidades para continuar creciendo como profesional. 😁 </h3>
 
 [![Banner.jpg](https://i.postimg.cc/pr7JB0r8/Banner.jpg)](https://postimg.cc/QKQ78Jpx)
 
