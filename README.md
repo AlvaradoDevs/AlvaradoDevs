@@ -1,12 +1,9 @@
-[![](https://visitcount.itsvg.in/api?id=AlvaradoDevs&icon=5&color=1)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hola mundo, soy Darwin Alvarado<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img></h1>
-
-<div align="center">
-    <img src=""></img>
-</div>
-
 <h3 align="center">Me gusta estar en costante aprendizaje y busco poner a prueba mis conocimientos.</h3>
+
+[![Banner.jpg](https://i.postimg.cc/pr7JB0r8/Banner.jpg)](https://postimg.cc/QKQ78Jpx)
+
+<br/>
 
 <h3 align="left">Acerca de mí:</h3>
 
